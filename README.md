@@ -1,5 +1,5 @@
 # Proyecto_Biblioteca_Python
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+![Estado del Proyecto](https://img.shields.io/badge/estado-terminado-green)
 
 ## Descripción
 Sistema de gestión de biblioteca en Python que permita a los usuarios mantener un registro de los libros que poseen
